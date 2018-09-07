@@ -5,6 +5,6 @@ applications:
   name: RTFlowCheck
   buildpack: java_buildpack
   path: ./target/RTFlowCheck-1.0-SNAPSHOT.jar
-  memory: 512MB
+  memory: 768MB
   domain: eu-gb.mybluemix.net
   host: rt-flow-check
