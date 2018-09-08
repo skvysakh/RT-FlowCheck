@@ -1,7 +1,7 @@
 package application;
 
 public class DamOverview {
-	private String _id = "example_id";
+	private String _id =  "example_id";
 	  private String _rev = null;
 private String dam_id;
 private String dam_name;
